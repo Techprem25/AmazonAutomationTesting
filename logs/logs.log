@@ -1,0 +1,93 @@
+[INFO ] 2024-01-30 07:44:17.242 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 07:44:29.124 [main] LogUtils -  STEP  1 :Browser launched successfully
+[INFO ] 2024-01-30 07:44:29.134 [main] LogUtils -  STEP  1 :Open the amazon browser, Select product added into cart
+[INFO ] 2024-01-30 07:44:38.365 [main] LogUtils -  STEP  1 :validate Select Product and Add Into Cart
+[INFO ] 2024-01-30 07:44:42.450 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 07:46:10.241 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 07:46:15.163 [main] LogUtils -  STEP  1 :Browser launched successfully
+[INFO ] 2024-01-30 07:46:15.186 [main] LogUtils -  STEP  1 :Open the amazon browser, Select product added into cart
+[INFO ] 2024-01-30 07:46:24.837 [main] LogUtils -  STEP  1 :validate Select Product and Add Into Cart
+[INFO ] 2024-01-30 07:47:21.906 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 10:28:44.887 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 10:28:46.786 [main] LogUtils -  STEP  1 :Browser launched successfully
+[INFO ] 2024-01-30 10:28:46.798 [main] LogUtils -  STEP  1 :Open the amazon browser, Select product added into cart
+[INFO ] 2024-01-30 10:28:55.993 [main] LogUtils -  STEP  1 :validate Select Product and Add Into Cart
+[INFO ] 2024-01-30 10:29:12.274 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 10:30:09.953 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 10:30:12.107 [main] LogUtils -  STEP  1 :Browser launched successfully
+[INFO ] 2024-01-30 10:30:12.115 [main] LogUtils -  STEP  1 :Open the amazon browser, Select product added into cart
+[INFO ] 2024-01-30 10:30:19.469 [main] LogUtils -  STEP  1 :validate Select Product and Add Into Cart
+[INFO ] 2024-01-30 10:31:30.740 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 10:36:54.459 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 10:36:56.257 [main] LogUtils -  STEP  1 :Browser launched successfully
+[INFO ] 2024-01-30 10:36:56.279 [main] LogUtils -  STEP  1 :Open the amazon browser, Select product added into cart
+[INFO ] 2024-01-30 10:37:25.412 [main] LogUtils -  STEP  1 :validate Select Product and Add Into Cart
+[INFO ] 2024-01-30 10:37:46.683 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 10:39:11.041 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 10:39:12.858 [main] LogUtils -  STEP  1 :Browser launched successfully
+[INFO ] 2024-01-30 10:39:12.892 [main] LogUtils -  STEP  1 :Open the amazon browser, Select product added into cart
+[INFO ] 2024-01-30 10:39:21.988 [main] LogUtils -  STEP  1 :validate Select Product and Add Into Cart
+[INFO ] 2024-01-30 10:39:49.402 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 10:39:51.160 [main] LogUtils -  STEP  1 :Browser launched successfully
+[INFO ] 2024-01-30 10:39:55.251 [main] LogUtils -  STEP  1 :Open the amazon browser, Select specific section and added product into cart
+[INFO ] 2024-01-30 10:40:04.930 [main] LogUtils -  STEP  1 :Validate product already added to add to cart view is displayed
+[INFO ] 2024-01-30 10:42:14.044 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 10:42:16.620 [main] LogUtils -  STEP  1 :Browser launched successfully
+[INFO ] 2024-01-30 10:42:16.628 [main] LogUtils -  STEP  1 :Open the amazon browser, Select product added into cart
+[INFO ] 2024-01-30 10:42:25.156 [main] LogUtils -  STEP  1 :validate Select Product and Add Into Cart
+[INFO ] 2024-01-30 10:42:48.278 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 10:42:50.645 [main] LogUtils -  STEP  1 :Browser launched successfully
+[INFO ] 2024-01-30 10:42:53.464 [main] LogUtils -  STEP  1 :Open the amazon browser, Select specific section and added product into cart
+[INFO ] 2024-01-30 10:43:04.543 [main] LogUtils -  STEP  1 :Validate product already added to add to cart view is displayed
+[INFO ] 2024-01-30 10:43:19.972 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 10:44:51.378 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 10:44:53.590 [main] LogUtils -  STEP  1 :Browser launched successfully
+[INFO ] 2024-01-30 10:44:53.603 [main] LogUtils -  STEP  1 :Open the amazon browser, Select product added into cart
+[INFO ] 2024-01-30 10:45:01.684 [main] LogUtils -  STEP  1 :validate Select Product and Add Into Cart
+[INFO ] 2024-01-30 10:45:07.133 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 10:45:09.581 [main] LogUtils -  STEP  1 :Browser launched successfully
+[INFO ] 2024-01-30 10:45:09.582 [main] LogUtils -  STEP  1 :Open the amazon browser, Select specific section and added product into cart
+[INFO ] 2024-01-30 10:45:49.214 [main] LogUtils -  STEP  1 :Validate product already added to add to cart view is displayed
+[INFO ] 2024-01-30 10:45:51.945 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 10:45:53.605 [main] LogUtils -  STEP  1 :Browser launched successfully
+[INFO ] 2024-01-30 10:45:53.607 [main] LogUtils -  STEP  1 :Open the amazon browser, Add two product in a add to cart
+[INFO ] 2024-01-30 13:12:59.306 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 13:13:02.403 [main] LogUtils -  STEP  1 :Browser launched successfully
+[INFO ] 2024-01-30 13:13:02.411 [main] LogUtils -  STEP  1 :Open the amazon browser, Select product added into cart
+[INFO ] 2024-01-30 13:13:10.375 [main] LogUtils -  STEP  1 :validate Select Product and Add Into Cart
+[INFO ] 2024-01-30 13:13:15.577 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 13:13:17.985 [main] LogUtils -  STEP  1 :Browser launched successfully
+[INFO ] 2024-01-30 13:13:17.988 [main] LogUtils -  STEP  1 :Open the amazon browser, Select specific section and added product into cart
+[INFO ] 2024-01-30 13:13:55.797 [main] LogUtils -  STEP  1 :Validate product already added to add to cart view is displayed
+[INFO ] 2024-01-30 13:13:59.126 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 13:14:00.676 [main] LogUtils -  STEP  1 :Browser launched successfully
+[INFO ] 2024-01-30 13:14:00.677 [main] LogUtils -  STEP  1 :Open the amazon browser, Add two product in a add to cart
+[INFO ] 2024-01-30 13:14:17.857 [main] LogUtils -  STEP  1 :Validate total amount selected product is accurate cart page
+[INFO ] 2024-01-30 13:14:21.315 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 13:14:22.748 [main] LogUtils -  STEP  1 :Browser launched successfully
+[INFO ] 2024-01-30 13:14:22.749 [main] LogUtils -  STEP  1 :Open the amazon browser, Add product into cart and remove the product from add to cart page
+[INFO ] 2024-01-30 13:14:31.474 [main] LogUtils -  STEP  1 :Validate cart page is empty
+[INFO ] 2024-01-30 13:14:34.922 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 13:14:37.505 [main] LogUtils -  STEP  1 :Browser launched successfully
+[INFO ] 2024-01-30 13:14:37.507 [main] LogUtils -  STEP  1 :Open the amazon browser, Select language
+[INFO ] 2024-01-30 13:15:08.622 [main] LogUtils -  STEP  1 :Validate the language changes display
+[INFO ] 2024-01-30 13:15:11.878 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 13:15:13.735 [main] LogUtils -  STEP  1 :Browser launched successfully
+[INFO ] 2024-01-30 13:15:13.737 [main] LogUtils -  STEP  1 :Open the amazon browser, Select product and scroll down bottom of the page
+[INFO ] 2024-01-30 13:15:16.188 [main] LogUtils -  STEP  1 :Validate Back to top and amazon logo functionality
+[INFO ] 2024-01-30 13:15:27.423 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 13:15:29.297 [main] LogUtils -  STEP  1 :Browser launched successfully
+[INFO ] 2024-01-30 13:15:29.300 [main] LogUtils -  STEP  1 :Open the amazon browser, Update pincode
+[INFO ] 2024-01-30 13:15:34.255 [main] LogUtils -  STEP  1 :Validate location field is updated
+[INFO ] 2024-01-30 13:15:38.093 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 13:15:39.808 [main] LogUtils -  STEP  1 :Browser launched successfully
+[INFO ] 2024-01-30 13:15:39.810 [main] LogUtils -  STEP  1 :Open the amazon browser, Navigate to signin page and enter invalidate email and phone number
+[INFO ] 2024-01-30 13:15:42.148 [main] LogUtils -  STEP  1 :Validate error message for invalid email or phone
+[INFO ] 2024-01-30 13:16:55.218 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 13:16:57.461 [main] LogUtils -  STEP  1 :Browser launched successfully
+[INFO ] 2024-01-30 13:16:57.469 [main] LogUtils -  STEP  1 :Open the amazon browser, Navigate to signin page and enter invalidate email and phone number
+[INFO ] 2024-01-30 13:16:59.585 [main] LogUtils -  STEP  1 :Validate error message for invalid email or phone
+[INFO ] 2024-01-30 13:18:09.840 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 13:18:11.939 [main] LogUtils -  STEP  1 :Browser launched successfully
+[INFO ] 2024-01-30 13:18:11.946 [main] LogUtils -  STEP  1 :Open the amazon browser, Navigate to signin page and enter invalidate email and phone number
+[INFO ] 2024-01-30 13:18:13.889 [main] LogUtils -  STEP  1 :Validate error message for invalid email or phone
